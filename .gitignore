@@ -31,6 +31,9 @@ build/
 /Source/Urho3D/Urho3DAll.h
 /Source/Urho3D/librevision.h
 
+# Build Folder
+/Build/**
+
 # Compiled shaders
 *.vs?
 *.ps?
