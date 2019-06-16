@@ -9,8 +9,9 @@ This will be a pain in the ass to build on anything but windows / linux and i ca
 ### Windows: 
 1. Make sure you have Visual Studio 2015-2019 With `Desktop Development with C++` and `Game Development with C++` Installed
 2. Install CMake Windows (Version 3.15 is what i have been using)
-3. Open sln project in `/Build` folder or the `Open Project` button in CMake
-4. Thats it (Hopefully)
+3. Point CMake to the project root, and build folder to `/Build`
+4. Open sln project in `/Build` folder or the `Open Project` button in CMake
+5. Thats it (Hopefully)
 ### Linux:
     > Dont ask. You should know.
 ### OSX:
