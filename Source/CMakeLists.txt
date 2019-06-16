@@ -146,6 +146,9 @@ add_subdirectory (Urho3D)
 # Urho3D tools
 # add_subdirectory (Tools)
 
+# Urho3D Experiments
+add_subdirectory (Experiments)
+
 # Urho3D Samples
 add_subdirectory (Samples)
 
